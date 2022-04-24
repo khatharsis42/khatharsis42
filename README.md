@@ -11,4 +11,5 @@ Head of teaching at my local coding student association, I'm the one making most
 I've been participating in Advent of Code each year since 2020. Here's where you can find my code for each year:
  - [2020](https://github.com/club-code/AdventOfCode2021)
  - [2021](https://github.com/club-code/AdventOfCode2021)
+
 I'm the active maintainter of a [localhost jukebox application written in Python](https://github.com/khatharsis42/jukebox-ultra-nrv), and the [club portal](https://github.com/khatharsis42/portail-cj-mk2).

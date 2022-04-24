@@ -9,7 +9,7 @@ I'm also coding a lot in C and C++, but those project aren't availables here. Tr
 # Experience
 Head of teaching at my local coding student association, I'm the one making most of the formations.
 I've been participating in Advent of Code each year since 2020. Here's where you can find my code for each year:
- - [2020](https://github.com/club-code/AdventOfCode2021)
- - [2021](https://github.com/club-code/AdventOfCode2021)
+ - 2020 (unavailable since I did not sumbit it to GitHub)
+ - [2021](https://github.com/club-code/AdventOfCode2021/tree/main/Kotlin/khatharsis)
 
 I'm the active maintainter of a [localhost jukebox application written in Python](https://github.com/khatharsis42/jukebox-ultra-nrv), and the [club portal](https://github.com/khatharsis42/portail-cj-mk2).

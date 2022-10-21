@@ -5,6 +5,7 @@ Currently studying at TélécomSudParis Engineering School, I'd like to work in 
 # Languages
 I used to code a lot in Python, but now I'm mostly about Kotlin, sometimes Java. I'm still the official maintainer of one of my club's juekbox application, so it is my most active project right now.
 I'm also coding a lot in C and C++, but those project aren't availables here. Trying to get into Rust.
+I have academic experience with Middleware tech in Java, High Performance computing with CUDA, OMP and MPI in C.
 
 # Experience
 Head of teaching at my local coding student association, I'm the one making most of the formations.

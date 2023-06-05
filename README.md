@@ -18,4 +18,4 @@ I've been participating in Advent of Code each year since 2020. Here's where you
  - [2022](https://github.com/club-code/AdventOfCode2022/tree/main/Kotlin/khatharsis)
  - 2023 (coming soon)
 
-I'm the former maintainter of a [localhost jukebox application written in Python](https://gitlab.com/club-jeux-int/jukebox-ultra-nrv), and the [club portal](https://github.com/khatharsis42/portail-cj-mk2), but I still maintain them on my spare time.
+I'm the former maintainer of a [localhost jukebox application written in Python](https://gitlab.com/club-jeux-int/jukebox-ultra-nrv), and the [club portal](https://github.com/khatharsis42/portail-cj-mk2), but I still maintain them on my spare time.

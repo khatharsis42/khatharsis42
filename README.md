@@ -3,7 +3,7 @@ Hi ! I'm Catherine, but you can call me Khâtharsis.
 Currently a PhD student at Télécom - SudParis Engineering School, I'd like to work in software engineering after that. You can check out my website [here](khatharsis.com).
 
 # Languages
-I used to code a lot in Python, but my true love is Kotlin, (and I am thus forced to somewhat like Java).
+I used to code a lot in Python, but my true love is Kotlin (and I am thus forced to somewhat like Java).
 
 I also often code in C but not by choice. My project in C aren't yet available here anyways. Trying to get into Rust.
 

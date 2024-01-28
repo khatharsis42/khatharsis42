@@ -1,6 +1,6 @@
 # Bio
 Hi ! I'm Catherine, aka Khâtharsis.
-Currently a PhD student at Télécom - SudParis Engineering School in the Benagil research team, I'm developing a [new trace format for exascale computing](https://github.com/trahay/Hierarchical-Trace-Format).
+Currently a PhD student at Télécom - SudParis Engineering School in the Benagil research team, I'm developing a [new trace format for exascale computing]([https://github.com/trahay/Hierarchical-Trace-Format](https://gitlab.inria.fr/pallas/pallas)).
 I'd probably like to work in software engineering after that. You can check out my website [here](http://wiki.khatharsis.com).
 
 # Languages
